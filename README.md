@@ -5,4 +5,4 @@
 In this project Node JS is used to create routing for a small website.
 Project from The Odin Project Curricullum [NodeJS course](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) 
 
-[Visit project]()
+[View project](https://odin-node-basics--hereiamruslan.repl.co/)
