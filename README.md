@@ -2,7 +2,7 @@
 
 ## About
 
-In this project Node JS is used to create routing for a small website.
+In this project I created a small website with routing using Node JS and Express.
 Project from The Odin Project Curricullum [NodeJS course](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) 
 
-[View project](https://odin-node-basics--hereiamruslan.repl.co/)
+[View deployment](https://odin-node-basics--hereiamruslan.repl.co/)
