@@ -44,6 +44,10 @@ body {
   font-size: 1.5em;
 }
 
+.subheading-plain {
+  color: var(--text-color);
+}
+
 .text {
   font-size: 1.5em;
 }
@@ -91,6 +95,7 @@ body {
 
 .form-subtext {
   grid-column: 2/3;
+  font-size: smaller;
 }
 
 .btn {
@@ -114,4 +119,8 @@ body {
 .btn:active {
   color: var(--accent-color-dark);
   border: 2px solid var(--accent-color-dark);
+}
+/* Honey pot in form on a contact page */
+.input-honeypot {
+  display: none;
 }
